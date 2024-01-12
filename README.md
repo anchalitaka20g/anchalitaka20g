@@ -63,8 +63,13 @@ Hi, I'm Aun Aun, a frontend developer from Thailand 🇹🇭.
 
 <!-- github_plugin_end -->
 
+## ⛳️ Certificate 
+- <a href='https://github.com/anchalitaka20g/anchalitaka20g/blob/main/certificate/GitHub%20for%20Developer%20_certifiacte.png' target='_blank'>GitHub Developer</a> 
+- <a href='https://github.com/anchalitaka20g/anchalitaka20g/blob/main/certificate/borntodev-acdemy_Command%20Prompt%20101_certifiacte.png' target='_blank'>Prompt 101</a>
+- <a href='https://github.com/anchalitaka20g/anchalitaka20g/blob/main/certificate/certificate-design-with-figma_anchalita.pdf' target='_blank'>UI Design with Figma</a> 
+- <a href='https://github.com/anchalitaka20g/anchalitaka20g/blob/main/certificate/certificate-intro-to-ux-design_anchalita.pdf' target='_blank'>Intro to UX design</a> 
+- <a href='https://github.com/anchalitaka20g/anchalitaka20g/blob/main/certificate/certificate-ui-fundamentals_anchalita.pdf' target='_blank'>UI Ffundamentals</a> 
 
-<!-- github_plugin_end -->
 
 
 
