@@ -23,6 +23,8 @@ Hi, I'm Aun Aun, a frontend developer from Thailand 🇹🇭.
 <img src="https://github.com/anchalitaka20g/anchalitaka20g/blob/main/images/jquery.gif" height="40" style="vertical-align:down; margin:4px" alt="jQuery">
 <img src="https://github.com/anchalitaka20g/anchalitaka20g/blob/main/images/react.png" height="40" style="vertical-align:down; margin:4px" alt="react">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://github.com/anchalitaka20g/anchalitaka20g/blob/main/images/Java_logo.png" height="40" style="vertical-align:down; margin:4px" alt="java">
+<img src="https://github.com/anchalitaka20g/anchalitaka20g/blob/main/images/java_spring.png" height="40" style="vertical-align:down; margin:4px" alt="java spring boot">
 
   <br>
 <img src="https://github.com/anchalitaka20g/anchalitaka20g/blob/main/images/bootstrap.png" height="40" style="vertical-align:down; margin:4px" alt="bootstrap">
