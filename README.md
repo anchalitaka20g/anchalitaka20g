@@ -44,11 +44,6 @@ Hi, I'm Aun Aun, a frontend developer from Thailand 🇹🇭.
 
 <!-- github_plugin_end -->
 
-<!-- wakatime_plugin_start -->
 
-## 🌗 Weekly Development Breakdown
-
-
-<!-- wakatime_plugin_end -->
 
 
